@@ -1,12 +1,12 @@
 # black-jack
 
-import java.util.*;
-public class blackjack
-{
-  public static void main(String [] args)
-  {
-    Scanner myScanner = new Scanner(System.in);
-    boolean playAgain=true;
+     import java.util.*;
+    public class blackjack
+    {
+    public static void main(String [] args)
+    {
+     Scanner myScanner = new Scanner(System.in);
+      boolean playAgain=true;
 
       while(playAgain==true)
       {
